@@ -6,7 +6,12 @@ span{
     margin-right: 8%;
 }
 #first-line{
-    margin-left: 75%;
+    margin-left: 70%;
+    background-color:brown;
+    color: white;
+    padding-left: 12px;
+    border-radius: 5px;
+
 }
 .name-highlight{
     color: firebrick;
@@ -35,10 +40,62 @@ h1{
     float: left;
     margin-left: 5%;
     padding-left: 2%;
+    margin-bottom: 5%;
 }
 #header{
     font-size: 35px;
 }
-random{
-    color: darkslategray;
+
+.last{
+    margin-top: 22%;
+    padding-top: 80px;
+    
 }
+.first{
+    padding-bottom: 100px;
+}
+.second{
+    padding-bottom: 500px;
+}
+.project{
+    color: crimson;
+}
+.pro{
+    margin-left: 36%;
+    font-size: 40px;
+    
+    font-family: 'Anton', sans-serif;
+}
+.new{
+    text-align: center;
+    width: 25%;
+    padding: 2%;
+    margin-left: 3%;
+    float: left;
+    margin-bottom: 10%;
+}
+.pic{
+    width: 40%;
+}
+.hope{
+    box-shadow: 20px 20px 40px gray;
+    height: 40%;
+    border-radius: 10px;
+    background-color: gray;
+}
+.extra-design{
+    margin-bottom: 20%;
+}
+.extra{
+    width: 5%;
+    float: left;
+    margin-top: 5%;
+    padding-left: 0%;
+    margin-left: 0%;
+}
+.photo{
+    width: 250%;
+   
+    
+}
+
