@@ -86,7 +86,7 @@ h1{
 }
 .extra-design{
     margin-top: 5%;
-    background-color: lightcyan;
+    
 }
 
 .extra{
@@ -98,10 +98,45 @@ h1{
 }
 .photo{
     width: 250%;
+    
 }
 .skill{
     text-align: center;
     font-size: 40px;
     font-family: 'Anton', sans-serif;
 }
-
+.inquiry{
+    margin-top: 40%;
+    margin-bottom: 100px;
+    margin-left: 25%;
+    background-image: url(images/Group_33094_1.png); 
+    background-size: cover;
+    height: 165px;
+    width: 50%;
+}
+.inquiry-div{
+    padding-top: 50px;
+}
+.inquiry-font{
+    color: white;
+    font-family: 'Anton', sans-serif;
+    font-size: 32px;
+    padding-left: 10%;
+    padding-right: 29%;
+    
+}
+.button{
+    font-family: 'Anton', sans-serif;
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient( #ec6648,#FF8063);
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.foot{
+    text-align: center;
+    font-size: 20px;
+    margin: 0;
+}
